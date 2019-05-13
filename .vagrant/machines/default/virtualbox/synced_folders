@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/tech-a04/Documents/week-8/day-1/dev-environment/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a04/Documents/week-8/day-1/dev-environment","disabled":false,"__vagrantfile":true}}}
