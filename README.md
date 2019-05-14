@@ -8,7 +8,7 @@ Clone the github repo, open terminal and go inside the directory. The virtual ma
 
 ``vargrant up``
 
-It has been set up so that the app folder has been synced with the /app directory of the virtual machine. The single command will automatically install NGINX and NodeJS v6.0. As well as start NGINX and the app.js file, inside the app folder, using PM2. The commands run for all these operations are written in the provision.sh file, insde the environment folder. 
+It has been set up so that the app folder has been synced with the /app directory of the virtual machine. The single command will automatically install NGINX, NodeJS v6.0 and NPM. As well as start NGINX and the app.js file, inside the app folder, using PM2. The commands run for all these operations are written in the provision.sh file, insde the environment folder. 
 
 The website can then be accessed via a browser by going to the custom IP address or URL (set in the vagrant file) and including the port it is running on. 
 
